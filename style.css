@@ -322,3 +322,8 @@ footer {
     color: red;
     text-align: center;
 }
+
+.navbar {
+    text-align: center;
+    margin: 20px 0;
+}
