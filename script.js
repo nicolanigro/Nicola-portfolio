@@ -1,5 +1,5 @@
 
-console.log("JavaScript is connected and working!");// ===============================
+console.log("JavaScript is connected and working!");// 
 // Wait until page loads
 // ===============================
 document.addEventListener("DOMContentLoaded", () => {
